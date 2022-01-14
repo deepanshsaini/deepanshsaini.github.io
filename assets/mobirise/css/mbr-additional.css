@@ -2377,54 +2377,60 @@ a {
 .cid-sUvDJRM1jM .card-box {
   color: #ffffff;
 }
-.cid-sUvImbxXhM {
+.cid-sUw4jHnkNo {
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #232323;
 }
-.cid-sUvImbxXhM .nav-tabs .nav-item.open .nav-link:focus,
-.cid-sUvImbxXhM .nav-tabs .nav-link.active:focus {
-  outline: none;
+.cid-sUw4jHnkNo blockquote {
+  border-color: #6592e6;
+  border-radius: 4px;
+  background-color: #232323;
 }
-.cid-sUvImbxXhM .nav-tabs {
-  flex-wrap: wrap;
-  border-bottom: 1px solid #6592e6;
-}
-@media (max-width: 767px) {
-  .cid-sUvImbxXhM .nav-item {
-    width: 100%;
-    margin: 0;
-  }
-}
-.cid-sUvImbxXhM .nav-tabs .nav-link {
-  transition: all .5s;
-  border: none;
-  border-bottom: 3px solid transparent;
-  border-radius: 0 !important;
-}
-.cid-sUvImbxXhM .nav-tabs .nav-link:not(.active) {
+.cid-sUw4jHnkNo .mbr-text {
   color: #ffffff;
 }
-.cid-sUvImbxXhM .nav-tabs .nav-item {
-  margin-right: 1.5rem;
+.cid-sUw4jHnkNo .mbr-section-title {
+  color: #ffffff;
 }
-.cid-sUvImbxXhM .nav-link,
-.cid-sUvImbxXhM .nav-link.active {
-  padding: 1rem 0;
-  background-color: transparent;
+.cid-sUw4mOAcEG {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #232323;
 }
-.cid-sUvImbxXhM .nav-tabs .nav-link.active {
+.cid-sUw4mOAcEG .mbr-text {
+  color: #ffffff;
+}
+.cid-sUw4mOAcEG .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sUw5b25sea {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #232323;
+}
+.cid-sUw5b25sea ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-sUw5b25sea li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-sUw5b25sea ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
   color: #6592e6;
-  border-bottom: 3px solid #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
 }
-.cid-sUvImbxXhM H4 {
-  text-align: center;
-}
-.cid-sUvImbxXhM H3 {
-  text-align: center;
+.cid-sUw5b25sea .list {
   color: #ffffff;
 }
-.cid-sUvImbxXhM P {
+.cid-sUw5b25sea H3 {
   color: #ffffff;
 }
 .cid-sUvQaqkxcx {
